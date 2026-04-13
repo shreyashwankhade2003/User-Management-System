@@ -58,7 +58,7 @@ Frontend runs on `http://localhost:3000`
 
 ## Default Admin Credentials
 - **Email:** admin@example.com
-- **Password:** admin123
+- **Password:** 1234567
 
 ## API Endpoints
 

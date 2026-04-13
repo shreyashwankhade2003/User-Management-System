@@ -1,0 +1,10 @@
+Flask
+Werkzeug
+Flask-JWT-Extended
+Flask-Cors
+Flask-Mail
+bcrypt
+python-dotenv
+mysql-connector-python
+PyMySQL
+gunicorn
